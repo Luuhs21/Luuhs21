@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luuhs21
 - 👀 I’m interested in books, games and learn.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Japanese and C++ (future plans).
+- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Japanese and C++ (future plans).
 - 💞️ I’m looking to collaborate on web development and game development.
 - 📫 I can be reach by my linkedin account. 
 
